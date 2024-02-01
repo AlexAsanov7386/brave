@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\obj\Debug\net7.0\sem_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\obj\Debug\net7.0\sem_2.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\obj\Debug\net7.0\sem_2.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\obj\Debug\net7.0\sem_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\bin\Debug\net7.0\sem_2.exe
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\bin\Debug\net7.0\sem_2.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\bin\Debug\net7.0\sem_2.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\bin\Debug\net7.0\sem_2.dll
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\bin\Debug\net7.0\sem_2.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\obj\Debug\net7.0\sem_2.dll
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\obj\Debug\net7.0\refint\sem_2.dll
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\obj\Debug\net7.0\sem_2.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\obj\Debug\net7.0\sem_2.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\sem_2\obj\Debug\net7.0\ref\sem_2.dll
