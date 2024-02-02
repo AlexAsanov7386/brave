@@ -18,11 +18,29 @@
 // 254 => 5^4 = 625
 // 617 => 1
 
- int number = 925;
- int secondDigit = number / 10 % 10; // 947 / 10 % 10 = 94 % 10 = 4
- int thirdDigit = number % 10; // 947 % 10 = 7 (Так мы находим 3ю цифру в 3х значном числе)
- // Math.Pow (5, 2) => 5 ^ 2 = 5 * 5 = 25
- int result = (int)Math.Pow(secondDigit, thirdDigit);
- // Результат переводится в (int),
-  Console.WriteLine($"{secondDigit} ^ {thirdDigit} = {result}");
-  // 4 ^ 7 = 16384
+//  int number = 925;
+//  int secondDigit = number / 10 % 10; // 947 / 10 % 10 = 94 % 10 = 4
+//  int thirdDigit = number % 10; // 947 % 10 = 7 (Так мы находим 3ю цифру в 3х значном числе)
+//  // Math.Pow (5, 2) => 5 ^ 2 = 5 * 5 = 25
+//  int result = (int)Math.Pow(secondDigit, thirdDigit);
+//  // Результат переводится в (int),
+//   Console.WriteLine($"{secondDigit} ^ {thirdDigit} = {result}");
+//   // 4 ^ 7 = 16384
+
+// Напишите программу, которая выводит третью с конца
+// цифру заданного числа или сообщает, что третьей цифры
+// нет.
+// 456 => 6
+// 7812 => 8
+// 91 => Третьей цифры нет
+
+int number = 12345678;
+if (number >= 100) // число минимум трехзначное (от 100 до + бесконечности)
+{
+    int thirdDigitFromEnd = (number / 100) % 10; // можно обрамить скобками а можно не обрамлять
+    Console.WriteLine($"Третья цифра от {number} с конца : {thirdDigitFromEnd}");
+}
+else // в числе нет 3й цифры
+    {
+        Console.WriteLine("Третьей цифры нет");
+}
